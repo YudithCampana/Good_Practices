@@ -24,6 +24,16 @@ Refactoriza el código aplicando las buenas prácticas.
 Crea un Pull Request con tu solución y menciona el Issue (ejemplo: Fixes #3).
 ¡Revisa el resultado y aprende cómo mejorar tu código!
 
+Pasos:
+
+-Acceder al repositorio localmente.(git clone https://github.com/<TU-USUARIO>/<NOMBRE-DEL-REPO>.git)
+- Crear la carpeta `Equipo X/` en la raíz (si no existe). (git checkout main , mkdir -p Equipo X)
+- Guardar tu archivo corregido dentro de `Equipo X/`. 
+- Hacer `git add`, `commit` y `push` para subir tu solución.(git add EqipoX/) (
+git commit -m "Solución en EquipoX/ aplicando KISS/DRY/SRP — Fixes #<del Issue>") 
+(git push origin main).
+
+
 
 
 
