@@ -4,12 +4,21 @@ Good Practices Challenge
 Aquí encontrarás ejemplos en Java, Python, C++ y JavaScript diseñados con errores intencionales para que los corrijas aplicando principios fundamentales de desarrollo limpio.
 
 ¿Qué debes hacer?
-Explora los ejemplos en la carpeta ejercicios/ (especialmente los que son en Java) y luego dirígete a la sección Issues para ver los retos asignados. Cada Issue contiene:
+Explora los ejemplos en la carpeta ejercicios/ (especialmente los que son en Java)
+
+# Dónde están los ejercicios?
+
+- Revisa la carpeta: `./ejercicios/`
+  - `./ejercicios/java/` — Ejercicios en Java
+  - `./ejercicios/python/` — Ejercicios en Python
+  - `./ejercicios/cpp/` — Ejercicios en C++
+  - `./ejercicios/js/` — Ejercicios en JavaScript
+    
+- Ve a **Issues** y selecciona el reto que vas a resolver. Cada Issue contiene:
 
 El código base con problemas.
 Una lista de objetivos para aplicar buenas prácticas.
 Pistas para guiar tu refactorización.
-
 
 Tu misión
 
@@ -23,4 +32,9 @@ Elige un Issue y lee el código base.
 Refactoriza el código aplicando las buenas prácticas.
 Crea un Pull Request con tu solución y menciona el Issue (ejemplo: Fixes #3).
 ¡Revisa el resultado y aprende cómo mejorar tu código!
+
+
+
+
+
 
