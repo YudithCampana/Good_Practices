@@ -25,8 +25,10 @@ Crea un Pull Request con tu solución y menciona el Issue (ejemplo: Fixes #3).
 ¡Revisa el resultado y aprende cómo mejorar tu código!
 
 Pasos:
-
--Acceder al repositorio localmente.(git clone https://github.com/<TU-USUARIO>/<NOMBRE-DEL-REPO>.git)
+-Comprobar tener git con git --version
+-Si no existe, instalar y crear usuario.
+-Una vez en CMD en el cd de destino..
+-Acceder al repositorio localmente.(git clone https://github.com/<TU-USUARIO>/Good_Practices.git)
 - Crear la carpeta `Equipo X/` en la raíz (si no existe). (git checkout main , mkdir -p Equipo X)
 - Guardar tu archivo corregido dentro de `Equipo X/`. 
 - Hacer `git add`, `commit` y `push` para subir tu solución.(git add EqipoX/) (
