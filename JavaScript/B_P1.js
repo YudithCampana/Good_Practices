@@ -1,4 +1,4 @@
-
+//: var, hoisting y comparación laxa ==
 // Imprime la variable antes de declararla; con var aparece como undefined (confuso)
 console.log(x); // undefined por hoisting
 // Declara la variable con var (evitarlo en código moderno)
