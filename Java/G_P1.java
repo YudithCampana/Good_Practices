@@ -1,4 +1,4 @@
-
+//: nombres claros, validación y responsabilidad única
 // Importa la clase Scanner para leer desde la consola
 import java.util.Scanner;
 
