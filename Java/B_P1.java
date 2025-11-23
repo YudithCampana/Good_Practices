@@ -1,4 +1,4 @@
-
+//: campos públicos, comparación de Strings con == y logs con "System.out"
 // Clase que expone datos directamente (mala encapsulación)
 class Usuario {
 
