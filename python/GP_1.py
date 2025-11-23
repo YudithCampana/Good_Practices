@@ -1,4 +1,4 @@
-
+#: nombres claros, typing, docstrings y función pura
 # Importa tipos opcionales para anotar la función (opcional para principiantes)
 from typing import Optional
 
