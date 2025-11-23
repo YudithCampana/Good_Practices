@@ -1,4 +1,4 @@
-
+// usar std::vector, std::string y const.
 // Incluye la biblioteca vector para listas dinámicas
 #include <vector>
 // Incluye la biblioteca string para cadenas de texto seguras
