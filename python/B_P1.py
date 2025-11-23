@@ -1,4 +1,4 @@
-
+#: argumento mutable por defecto y nombres crípticos
 # Define una función con una lista por defecto (mala práctica)
 def agregar(item, lista=[]):
     # Agrega el elemento a la lista por defecto, compartida entre llamadas
