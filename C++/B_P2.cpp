@@ -1,4 +1,4 @@
-
+//new-delete manual y doble liberación
 // Incluye iostream para imprimir
 #include <iostream>
 
