@@ -1,4 +1,4 @@
-
+//: no cerrar recursos y capturar Exception genérica
 // Importa clases para leer archivos
 import java.io.BufferedReader;
 // Importa FileReader para abrir un archivo de texto
