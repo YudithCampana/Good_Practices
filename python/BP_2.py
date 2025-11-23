@@ -1,4 +1,4 @@
-
+#: except Exception: pass y no cerrar archivos
 # Intenta hacer algo y silencia cualquier error (mala práctica)
 try:
     # Abre un archivo sin usar 'with' y sin cerrar después
