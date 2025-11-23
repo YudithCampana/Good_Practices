@@ -1,4 +1,4 @@
-
+#: leer archivos con with y manejar excepciones específicas
 # Intenta abrir y leer un archivo de texto de forma segura
 try:
     # Usa 'with' para abrir el archivo y cerrarlo automáticamente al terminar
