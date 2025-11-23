@@ -1,4 +1,4 @@
-
+//: RAII con std::unique_ptr para manejar memoria
 // Incluye memory para usar punteros inteligentes
 #include <memory>
 // Incluye iostream para imprimir
