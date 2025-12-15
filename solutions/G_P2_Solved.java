@@ -13,7 +13,7 @@ public class G_P2_Solved {
         // Definición de la ruta utilizando la clase Path para compatibilidad entre SO
         Path ruta = Path.of("ejemplo.txt");
 
-        /* * APLICACIÓN DE BUENA PRÁCTICA: Try-with-resources.
+        /* APLICACIÓN DE BUENA PRÁCTICA: Try-with-resources.
          * La instancia 'lineas' implementa AutoCloseable, por lo que Java
          * cerrará el flujo automáticamente al terminar el bloque, evitando fugas de memoria.
          */
@@ -23,7 +23,7 @@ public class G_P2_Solved {
             lineas.forEach(System.out::println);
 
         } catch (IOException e) {
-            /* * APLICACIÓN DE BUENA PRÁCTICA: Manejo específico de excepciones.
+            /* APLICACIÓN DE BUENA PRÁCTICA: Manejo específico de excepciones.
              * Solo capturamos IOException (errores de archivo), no Exception general.
              * Proporcionamos feedback contextual con e.getMessage().
              */
